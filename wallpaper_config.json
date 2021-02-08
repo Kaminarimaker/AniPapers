@@ -1,86 +1,48 @@
 {
-  "Categories": [{
-    "name": "Zero Two"
-  },
-    {
-      "name": "Zero Two Sexy"
-    },
-    {
-      "name": "Jujutsu Kaisen"
-    },
-    {
-      "name": "Darling in The FranXX"
-    },
-    {
-      "name": "Gamer Girl"
-    },
-    {
-      "name": "Demon Girl"
-    },
-    {
-      "name": "No Game No Life"
-    },
-    {
-      "name": "Re: Zero"
-    },
-    {
-      "name": "Karin"
-    },
-    {
-      "name": "Halloween Theme"
-    },
-    {
-      "name": "Yato"
-    }],
-
-  "Wallpapers": [{
-    "author": "By Kaminari",
-    "url": "https://i.ibb.co/WpJC32F/26b97906524836b76844980728e3c97a.jpg",
-    "thumbUrl": "https://i.ibb.co/WpJC32F/26b97906524836b76844980728e3c97a.jpg",
-    "name": "Zero Two",
-    "category": "Zero Two Sexy"
-  },
-    {
-      "author": "By Kaminarimaker",
-      "url": "https://i.ibb.co/Msg1VvY/yly19yfwvfw51.png",
-      "thumbUrl": "https://i.ibb.co/37TFN3D/yly19yfwvfw51.png",
-      "name": "Zero Two x Ichigo - Halloween",
-      "category": "Zero Two"
-    }, {
-      "author": "By AniPapers",
-      "url": "https://i.ibb.co/4m33m5X/Demon-Girl-1.png",
-      "thumbUrl": "https://i.ibb.co/98SS8C1/Demon-Girl-1.png",
-      "name": "Demon Girl",
-      "category": "Demon Girl"
-    }, {
-      "author": "By AniPapers",
-      "url": "https://i.ibb.co/6vMSfGS/Demon-Girl-5.jpg",
-      "thumbUrl": "https://i.ibb.co/LQFy2By/Demon-Girl-5.jpg",
-      "name": "Demon Girl",
-      "category": "Demon Girl"
-    }, {
-      "author": "By AniPapers",
-      "url": "https://i.ibb.co/YZc3Vtg/Demon-Girl-3.jpg",
-      "thumbUrl": "https://i.ibb.co/FV5KdBp/Demon-Girl-3.jpg",
-      "name": "Demon Girl",
-      "category": "Demon Girl"
-    }, {
-      "author": "By AniPapers",
-      "url": "https://i.ibb.co/dpL9YsM/Demon-Girl-4.jpg",
-      "thumbUrl": "https://i.ibb.co/myXsWrT/Demon-Girl-4.jpg",
-      "name": "Demon Girl",
-      "category": "Demon Girl"
-    }, {
-      "author": "By AniPapers",
-      "url": "https://i.ibb.co/BjdtXxM/Demon-Girl-0.jpg",
-      "thumbUrl": " https://i.ibb.co/d61rdqY/Demon-Girl-0.jpg",
-      "name": "Demon Girl",
-      "category": "Demon Girl"
-    }, {
-      "author": "By AniPapers",
-      "url": "https://i.ibb.co/ZgnTH7q/Demon-Girl-2.png",
-      "thumbUrl": "https://i.ibb.co/bvSdHDc/Demon-Girl-2.png",
-      "name": "Demon Girl",
-      "category": "Demon Girl"
-    }]
-}
+  "Categories":[{
+    "name":"Zero Two"
+  }, {
+    "name":"Zero Two Sexy"
+  }, {
+    "name":"Jujutsu Kaisen"
+  }, {
+    "name":"Darling in The FranXX"
+  }, {
+    "name":"Gamer Girl"
+  }, {
+    "name":"Horimiya"
+  }, {
+    "name":"Demon Girl"
+  }, {
+    "name":"No Game No Life"
+  }, {
+    "name":"Re: Zero"
+  }, {
+    "name":"Karin"
+  }, {
+    "name":"Halloween Theme"
+  }, {
+    "name":"Yato"
+  }],"Wallpapers":[{
+    "author":"By AniPapers","url":"https://i.ibb.co/4m33m5X/Demon-Girl-1.png","thumbUrl":"https://i.ibb.co/98SS8C1/Demon-Girl-1.png","name":"Demon Girl","category":"Demon Girl"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/6vMSfGS/Demon-Girl-5.jpg","thumbUrl":"https://i.ibb.co/LQFy2By/Demon-Girl-5.jpg","name":"Demon Girl","category":"Demon Girl"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/YZc3Vtg/Demon-Girl-3.jpg","thumbUrl":"https://i.ibb.co/FV5KdBp/Demon-Girl-3.jpg","name":"Demon Girl","category":"Demon Girl"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/dpL9YsM/Demon-Girl-4.jpg","thumbUrl":"https://i.ibb.co/myXsWrT/Demon-Girl-4.jpg","name":"Demon Girl","category":"Demon Girl"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/BjdtXxM/Demon-Girl-0.jpg","thumbUrl":"https://i.ibb.co/d61rdqY/Demon-Girl-0.jpg","name":"Demon Girl","category":"Demon Girl"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/ZgnTH7q/Demon-Girl-2.png","thumbUrl":"https://i.ibb.co/bvSdHDc/Demon-Girl-2.png","name":"Demon Girl","category":"Demon Girl"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/L9S7DBX/Zero-Two-Sexy-0.jpg","thumbUrl":"https://i.ibb.co/F86TkcL/Zero-Two-Sexy-0.jpg","name":"Zero Two Sexy","category":"Zero Two Sexy"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/VC2CDd0/Zero-Two-Sexy-1.png","thumbUrl":"https://i.ibb.co/kDQD0pV/Zero-Two-Sexy-1.png","name":"Zero Two Sexy","category":"Zero Two Sexy"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/VNNqt3t/Zero-Two-Sexy-2.png","thumbUrl":"https://i.ibb.co/z554rNr/Zero-Two-Sexy-2.png","name":"Zero Two Sexy","category":"Zero Two Sexy"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/CK3R8zm/Zero-Two-Sexy-3.png","thumbUrl":"https://i.ibb.co/chS431k/Zero-Two-Sexy-3.png","name":"Zero Two Sexy","category":"Zero Two Sexy"
+  }, {
+    "author":"By AniPapers","url":"https://i.ibb.co/CK3R8zm/Zero-Two-Sexy-3.png","thumbUrl":"https://i.ibb.co/chS431k/Zero-Two-Sexy-3.png","name":"Zero Two Sexy","category":"Zero Two Sexy"
+  }]}
